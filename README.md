@@ -4,7 +4,7 @@
 ## 講義資料
 下記から各自ダウンロードすること:
 
-- [線形計画問題(第1〜第3回)](https://bitbucket.org/nagae/linearprogramming/raw/9088db8765e276bc4f62391f5431f3ba5a6b8896/doc/LP.pdf) (ver0.5.2)
+- [線形計画問題(第1〜第3回)](https://bitbucket.org/nagae/linearprogramming/raw/132c42febf70d593d65bc1cfcedbb3e3d0c1bb70/doc/LP.pdf) (ver0.5.3)
   - レポート課題([2016/12/12分 (ver2.0)](2016/report/161212/161212report.pdf))
   ← 2016/12/5 の講義後, 修正しています. 最新版を DL して下さい.
       - レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))

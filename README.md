@@ -7,6 +7,7 @@
 - [線形計画問題(第1〜第3回)](https://bitbucket.org/nagae/linearprogramming/raw/9088db8765e276bc4f62391f5431f3ba5a6b8896/doc/LP.pdf) (ver0.5.2)
   - レポート課題([2016/12/12分 (ver2.0)](2016/report/161212/161212report.pdf))
   ← 2016/12/5 の講義後, 修正しています. 最新版を DL して下さい.
+      - レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))
   - レポート課題([2016/12/26分 (ver1.0)](2016/report/161226/161226report.pdf))
 - 非線形計画問題(第4〜第5回) 準備中
 

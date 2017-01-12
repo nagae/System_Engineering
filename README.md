@@ -10,8 +10,8 @@
       - レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))
   - レポート課題([2016/12/26分 (ver1.0)](2016/report/161226/161226report.pdf))
 - 非線形計画問題
-  - [第4回講義資料(ver1.0)](2016/System_Engineering-chap4-ver1_0.pdf)
-  - [第5回講義資料(ver1.0)](2016/System_Engineering-chap5-ver1_0.pdf)
+  - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
+  - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)
 
 ## 講義予定
 長江の勘違いにより 12/26 を休講としていましたが，12/26 は冬季休業中であり,

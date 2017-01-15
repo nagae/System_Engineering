@@ -13,6 +13,7 @@
   - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
   - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)
 - 中田先生担当分の最終レポート課題
+  
  提出期限, 提出方法は 1/15 現在照会中
  - ([PDF](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
   
@@ -38,7 +39,7 @@
 
 - 中田先生の分(50点満点)と長江の分(50点満点)の合計
 - 中田先生担当分
-- [レポート課題]((2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
+  - [最終レポート課題]((2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
 - 長江担当分の評価方法
   - レポート課題(20%)  
 	12/16, 12/26 休講分

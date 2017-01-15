@@ -13,7 +13,7 @@
   - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
   - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)
 - 中田先生担当分の
-  [期末レポート課題](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf)__
+  [期末レポート課題](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf)  
   提出期限・提出方法は下記参照.
 
 ## 中田先生担当分(前半)の期末レポートについて

@@ -12,7 +12,7 @@
 - 非線形計画問題
   - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
   - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)
-- 中田先生担当分の最終レポート課題
+- 中田先生担当分の期末レポート課題
   
  提出期限, 提出方法は 1/15 現在照会中
  - ([PDF](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
@@ -39,7 +39,7 @@
 
 - 中田先生の分(50点満点)と長江の分(50点満点)の合計
 - 中田先生担当分
-  - [最終レポート課題]((2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
+  - [期末レポート課題](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf)
 - 長江担当分の評価方法
   - レポート課題(20%)  
 	12/16, 12/26 休講分
@@ -53,7 +53,7 @@
 - 電卓は **持ち込み可能** です．
 - 出題範囲は **長江の担当分(後半)のみ** です.
 - 中田先生担当分(前半)については 
-  [最終レポート](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf)
+  [期末レポート](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf)
   が出ています.
 
 ## 参考資料

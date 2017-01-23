@@ -17,7 +17,7 @@
   ← 2016/12/5 の講義後, 修正しています. 最新版を DL して下さい.   
 	レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))
   - レポート課題([2016/12/26分 (ver1.0)](2016/report/161226/161226report.pdf))  
-	レポート解答例([2016/12/26分 (ver1.0)](2016/report/161216/161216answer-ver1_0.pdf))
+	レポート解答例([2016/12/26分 (ver1.0)](2016/report/161226/161226answer-ver1_0.pdf))
 - 非線形計画問題
   - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
   - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)

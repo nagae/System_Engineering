@@ -14,9 +14,10 @@
 
 - [線形計画問題(第1〜第3回)](https://bitbucket.org/nagae/linearprogramming/raw/132c42febf70d593d65bc1cfcedbb3e3d0c1bb70/doc/LP.pdf) (ver0.5.3)
   - レポート課題([2016/12/12分 (ver2.0)](2016/report/161212/161212report.pdf))
-  ← 2016/12/5 の講義後, 修正しています. 最新版を DL して下さい.
-      - レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))
-  - レポート課題([2016/12/26分 (ver1.0)](2016/report/161226/161226report.pdf))
+  ← 2016/12/5 の講義後, 修正しています. 最新版を DL して下さい.   
+	レポート解答例([2016/12/12分 (ver1.1)](2016/report/161212/161212answer.pdf))
+  - レポート課題([2016/12/26分 (ver1.0)](2016/report/161226/161226report.pdf))  
+	レポート解答例([2016/12/26分 (ver1.0)](2016/report/161216/161216answer-ver1_0.pdf))
 - 非線形計画問題
   - [第4回講義資料(ver1.0)](2016/slide/System_Engineering-chap4-ver1_0.pdf)
   - [第5回講義資料(ver1.0)](2016/slide/System_Engineering-chap5-ver1_0.pdf)
@@ -26,6 +27,7 @@
 
 ## 中田先生担当分(前半)の期末レポートについて
 中田先生担当分(前半)の期末レポートが出ています．
+
 - レポート課題([PDF](2016/report/final_report-Nakata/2017System_Engineering-final_report-Nakata.pdf))
 - 提出期限: 1月30日(月) 長江担当分の **期末試験終了後**
 - 提出方法: 長江担当分の期末試験が終了し, 答案用紙を回収した **「後」** , レポート
